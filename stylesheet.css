@@ -11,5 +11,8 @@ h1{
 }
 #job{
   border: 2px solid blue;
-  background-img: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-PrmcMF3RodlOofd7eF2vgLDW3VNtDcwdx1Pktp6Kb0HTzEfW");
+ 
+}
+img{
+  position: fixed;
 }
